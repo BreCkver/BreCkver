@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alt3Bkr)](https://twitter.com/BreCkver)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/reyesjaimemx/)](https://linkedin.com/in/reyesjaimemx/)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:breckver.dll@gmail.com)](mailto:breckver.dll@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:breckver.dll@gmail.com)](mailto:breckver.dll@outlook.com)
 
 
 ## About Me
